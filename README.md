@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nine years of full-stack development experience enables me to offer technical expertise in Python, Django, Flask, PHP, Laravel, React, and Vue.
+10 years of full-stack development experience enables me to offer technical expertise in Python, Django, Flask, PHP, Laravel, React, and Vue.
 
 Proven record of creating robust, high-performing web applications. My work has helped grow revenues,
 accelerate customer acquisition, increase web traffic and deliver an industry-leading competitive advantage.
